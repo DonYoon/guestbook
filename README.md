@@ -1,4 +1,4 @@
-# LAMP Guestbook Project
+# LAMP Guestbook Web Application
 
 This is a basic Guestbook project that demonstrates fundamental Linux, Apache, MySQL, and PHP (LAMP) skills. Users can submit their name and message to the Guestbook, and the entries are displayed in a table.
 
