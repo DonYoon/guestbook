@@ -7,13 +7,13 @@ This is a basic Guestbook project that demonstrates fundamental Linux, Apache, M
 - Submit Guestbook entries with name and message
 - View Guestbook entries in a table
 - Built using LAMP stack (Linux, Apache, MySQL, PHP)
-- Utilizes Bootstrap for responsive design
+- Utilises Bootstrap for responsive design
 
 ## Installation
 
 1. Clone the repository to your local machine or server:
 
-git clone https://github.com/yourusername/simple-lamp-guestbook.git
+git clone https://github.com/yourusername/guestbook.git
 
 2. Set up a LAMP environment on your server. Ensure that Apache, MySQL, and PHP are installed and configured.
 3. Import the `guestbook.sql` file into your MySQL database to create the guestbook table.
@@ -23,13 +23,5 @@ git clone https://github.com/yourusername/simple-lamp-guestbook.git
 
 ## Usage
 
-- To submit a new entry, go to `submit_guestbook.php`. Enter your name and message, then click "Submit".
-- To view all Guestbook entries, go to `view_guestbook.php`.
-
-## Author
-
-Your Name
-
-## License
-
-This project is licensed under the MIT License.
+1. To submit a new entry, go to `submit_guestbook.php`. Enter your name and message, then click "Submit".
+2. To view all Guestbook entries, go to `view_guestbook.php`.
