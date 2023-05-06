@@ -13,7 +13,7 @@ This is a basic Guestbook project that demonstrates fundamental Linux, Apache, M
 
 1. Clone the repository to your local machine or server:
 
-git clone https://github.com/yourusername/guestbook.git
+  git clone https://github.com/yourusername/guestbook.git
 
 2. Set up a LAMP environment on your server. Ensure that Apache, MySQL, and PHP are installed and configured.
 3. Import the `guestbook.sql` file into your MySQL database to create the guestbook table.
