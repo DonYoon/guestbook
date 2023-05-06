@@ -9,17 +9,25 @@ This is a basic Guestbook project that demonstrates fundamental Linux, Apache, M
 - Built using LAMP stack (Linux, Apache, MySQL, PHP)
 - Utilises Bootstrap for responsive design
 
-## Installation
+## Getting Started
 
-1. Clone the repository to your local machine or server:
+1. **Clone the repository to your local machine or server:**
   
   git clone https://github.com/yourusername/guestbook.git
+  
+  Replace `your-username` with your GitHub username.
 
-2. Set up a LAMP environment on your server. Ensure that Apache, MySQL, and PHP are installed and configured.
-3. Import the `guestbook.sql` file into your MySQL database to create the guestbook table.
-4. Update the `submit_guestbook.php` and `view_guestbook.php` files with your database connection information (hostname, username, password, and database name).
-5. Configure your Apache server to serve the Guestbook project files.
-6. Open a web browser and navigate to the Guestbook project on your server.
+2. **Set up a LAMP environment on your server. Ensure that Apache, MySQL, and PHP are installed and configured.**
+
+3. **Import the `guestbook.sql` file into your MySQL database to create the guestbook table.**
+
+4. **Update the `submit_guestbook.php` and `view_guestbook.php` files with your database connection information (hostname, username, password, and database name).**
+
+5. **Configure your Apache server to serve the Guestbook project files.**
+
+6. **Open a web browser and navigate to the Guestbook project on your server.**
+
+
 
 ## Usage
 
