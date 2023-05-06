@@ -13,9 +13,9 @@ This is a basic Guestbook project that demonstrates fundamental Linux, Apache, M
 
 1. Clone the repository to your local machine or server:
   
-  git clone https://github.com/yourusername/guestbook.git
+    git clone https://github.com/yourusername/guestbook.git
   
-  Replace `your-username` with your GitHub username.
+    Replace `your-username` with your GitHub username.
 
 2. Set up a LAMP environment on your server. Ensure that Apache, MySQL, and PHP are installed and configured.
 
